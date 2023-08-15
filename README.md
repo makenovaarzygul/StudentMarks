@@ -1,6 +1,6 @@
 # StudentMarks
 ОТЛИЧНО
-![image](https://github.com/makenovaarzygul/StudentMarks/assets/111987442/cf24fe78-ea4c-4ab7-8708-ec16ba13362e)
+![image](https://github.com/makenovaarzygul/StudentMarks/assets/111987442/8fc48fe2-c30c-4560-bed0-3eeef05a6348)
 ХОРОШО
 ![image](https://github.com/makenovaarzygul/StudentMarks/assets/111987442/fd6652d1-9168-4160-9b3b-40af11b48e9f)
 УДОВЛЕТВОРИТЕЛЬНО
