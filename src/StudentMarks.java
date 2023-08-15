@@ -45,9 +45,9 @@ public class StudentMarks {
                 m7 = Integer.parseInt(txt7.getText());
 
                 if (m1 > 100 || m2 > 100 || m3 > 100 || m4 > 100 || m5 > 100 || m6 > 100 || m7 > 100) {
-                    // Вывести сообщение об ошибке
+
                     txt10.setText("Ошибка - введено балл превышающий 100");
-                    return; // Прервать выполнение кода дальше
+                    return;
                 }
 
                 m1 = Math.min(m1, 100);
